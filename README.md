@@ -8,7 +8,9 @@ But the framework isn't just about individual characters; it also allows for the
 
 So, think of "Applied Text as Graph" as a dynamic, interactive map for text. It not only helps you navigate the content but also enables in-depth analysis and layered annotations.
 
-![Eugenio](https://git.thm.de/aksz15/download/-/raw/master/ATAG/ATAG-example.png)
+![ATAG example](https://git.thm.de/aksz15/download/-/raw/master/ATAG/ATAG-example.png)
+
+https://excalidraw.com/#json=3kpVIZ3IIA2Axenielq19,_Br52Sz_N0WnfIvj3taDTg
 
 - There are pieces of linear text
 - Every character in this linear text is in a character node (orange) which is connected to the previous or following character node
