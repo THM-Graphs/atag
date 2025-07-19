@@ -1,5 +1,7 @@
 # The Idea of ATAG (Applied Text as Graph)
 
+## Above you can find several publications about ATAG etc.
+
 ## Introduction
 
 "Applied Text as Graph" is a structured way to handle and analyze text by turning it into an interconnected graph. In this approach, every individual character in a block of text is represented by a "character node" (orange in the next figure). These nodes are connected in sequence, highlighting the linear arrangement of the text. Each block of text, whether it's a word or a paragraph, begins with a  "text node" (blue) that serves as a starting point or a root element. These blocks of text can be linked to one another to suggest a reading sequence. The framework is highly detailed, focusing on the granular level of individual characters. To make referencing specific characters easier, each one is assigned a unique code, known as a UUID.
